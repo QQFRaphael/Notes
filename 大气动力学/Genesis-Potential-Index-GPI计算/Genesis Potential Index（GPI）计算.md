@@ -71,7 +71,7 @@ PCMIN还需要输入NA和N两个量，对于再分析资料而言，NA和N只要
 | pcmin_2013_wrapit.f和func_cal_vpot.ncl | 修改后ncl可以调用的PCMIN计算程序 |
 | pi.py                                  | 用python编写的计算PCMIN的程序    |
 
-**备注：**这里需要注意，我们往往需要计算的是GPI的气候态，因此有两种时间分辨率的计算数据选择。一种是使用日数据计算GPI，然后换算成月、年的数据；另一种是直接使用月数据计算。第一种计算方法的参考文献有：Subtropical high affects interdecadal variability of tropical cyclone genesis in the South China Sea；第二种计算方法的参考文献有：Degree of simulated suppression of Atlantic tropical cyclones modulated by flavour of El Niño。两种方法都有人计算。
+**备注：**这里需要注意，我们往往需要计算的是GPI的气候态，因此有两种时间分辨率的计算数据选择。一种是使用日数据计算GPI，然后换算成月、年的数据；另一种是直接使用月数据计算。第一种计算方法的参考文献有：Subtropical high affects interdecadal variability of tropical cyclone genesis in the South China Sea；第二种计算方法的参考文献有：Degree of simulated suppression of Atlantic tropical cyclones modulated by flavour of El Niño和Use of a Genesis Potential Index to Diagnose ENSO Effects on Tropical Cyclone Genesis。两种方法都有人计算。
 
 参考文献
 
@@ -81,3 +81,4 @@ Patricola, C. M., Chang, P., & Saravanan, R. (2016). Degree of simulated suppres
 
 Murakami, H., & Wang, B. (2010). Future change of North Atlantic tropical cyclone tracks: Projection by a 20-km-mesh global atmospheric model. *Journal of Climate*, *23*(10), 2699-2721.
 
+Camargo, S. J., Emanuel, K. A., & Sobel, A. H. (2007). Use of a genesis potential index to diagnose ENSO effects on tropical cyclone genesis. Journal of Climate, 20(19), 4819-4834.
